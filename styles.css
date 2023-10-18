@@ -42,8 +42,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: blueviolet;
-    height: 1000px;
-    
+   
+
     
 
 
@@ -107,7 +107,7 @@ nav{
     background-color: rgb(123, 126, 129);
     display: flex;
     justify-content: space-between;
-    position: fixed;
+   
 
 }
 ul{
